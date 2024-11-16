@@ -4,7 +4,7 @@ The tasks that follow represent real tasks that would be performed on a schedule
 You will harden a Windows 10 desktop as well as a Windows 2016 server. From there, you will create several security policies for the organization. As with hardening, you also performed this activity, but for different areas of the Information Technology department, during the course. Additionally, you will create build sheets for Windows and Linux cloud servers. Finally, you will conduct a subset of a server self-assessment that is common during pre-work for compliance audits.
 
 ### Project Implementation <br>
-
+https://github.com/jubriledun/Projects_Udacity_Enterprise_Security/blob/master/Endpoint%20Security/Jubril-Edun-Fed-First-Control-Systems-Course-Project.pdf
 
 ### Tools <br>
 Windows Desktop, Windows Server, CentOS
