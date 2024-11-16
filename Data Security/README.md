@@ -4,6 +4,7 @@ The data warehouse team has provided a list of data that they typically manage a
 You are required to CREATE DATA SECURITY and RECOVERY PROGRAM POLICY, IMPLEMENT ENCRYPTION, BACKUP, FILE INTEGRITY MONITORING, ACCESS MANAGEMENT, AND AUDIT 
 
 ### Project Implementation
+https://github.com/jubriledun/Projects_Udacity_Enterprise_Security/blob/master/Data%20Security/JubrilEdun-ndesc4-data-security-submission-document.pdf
 
 ### Tools <br>
 Azure Backup, Azure keys, key vault, disk encryption set, Powershell etc.
