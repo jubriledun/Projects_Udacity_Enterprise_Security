@@ -9,7 +9,7 @@ Needing to get to the bottom of this breach and resolving their current perimete
 
 
 ### Project Implementation
-https://github.com/jubriledun/Perimeter_Security-Udacity_Enterprise_Security_Project/blob/main/Jubril%20Edun%20-%20Securing%20the%20Perimeter%20Project.pdf
+
 
 ### Tools
 Azure (VPN Gateway, VNET, VM, NSG), SIEM (ELK) etc
